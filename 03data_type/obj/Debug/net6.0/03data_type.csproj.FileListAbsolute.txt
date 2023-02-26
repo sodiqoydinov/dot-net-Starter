@@ -1,0 +1,15 @@
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\bin\Debug\net6.0\03data_type.exe
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\bin\Debug\net6.0\03data_type.deps.json
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\bin\Debug\net6.0\03data_type.runtimeconfig.json
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\bin\Debug\net6.0\03data_type.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\bin\Debug\net6.0\03data_type.pdb
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\obj\Debug\net6.0\03data_type.csproj.AssemblyReference.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\obj\Debug\net6.0\03data_type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\obj\Debug\net6.0\03data_type.AssemblyInfoInputs.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\obj\Debug\net6.0\03data_type.AssemblyInfo.cs
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\obj\Debug\net6.0\03data_type.csproj.CoreCompileInputs.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\obj\Debug\net6.0\03data_type.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\obj\Debug\net6.0\refint\03data_type.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\obj\Debug\net6.0\03data_type.pdb
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\obj\Debug\net6.0\03data_type.genruntimeconfig.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\03data_type\obj\Debug\net6.0\ref\03data_type.dll

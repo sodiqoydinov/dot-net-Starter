@@ -1,0 +1,15 @@
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\bin\Debug\net6.0\05homework1.exe
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\bin\Debug\net6.0\05homework1.deps.json
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\bin\Debug\net6.0\05homework1.runtimeconfig.json
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\bin\Debug\net6.0\05homework1.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\bin\Debug\net6.0\05homework1.pdb
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\obj\Debug\net6.0\05homework1.csproj.AssemblyReference.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\obj\Debug\net6.0\05homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\obj\Debug\net6.0\05homework1.AssemblyInfoInputs.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\obj\Debug\net6.0\05homework1.AssemblyInfo.cs
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\obj\Debug\net6.0\05homework1.csproj.CoreCompileInputs.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\obj\Debug\net6.0\05homework1.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\obj\Debug\net6.0\refint\05homework1.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\obj\Debug\net6.0\05homework1.pdb
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\obj\Debug\net6.0\05homework1.genruntimeconfig.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\05homework1\obj\Debug\net6.0\ref\05homework1.dll

@@ -1,0 +1,15 @@
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\bin\Debug\net6.0\01helloworld.exe
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\bin\Debug\net6.0\01helloworld.deps.json
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\bin\Debug\net6.0\01helloworld.runtimeconfig.json
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\bin\Debug\net6.0\01helloworld.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\bin\Debug\net6.0\01helloworld.pdb
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\obj\Debug\net6.0\01helloworld.csproj.AssemblyReference.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\obj\Debug\net6.0\01helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\obj\Debug\net6.0\01helloworld.AssemblyInfoInputs.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\obj\Debug\net6.0\01helloworld.AssemblyInfo.cs
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\obj\Debug\net6.0\01helloworld.csproj.CoreCompileInputs.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\obj\Debug\net6.0\01helloworld.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\obj\Debug\net6.0\refint\01helloworld.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\obj\Debug\net6.0\01helloworld.pdb
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\obj\Debug\net6.0\01helloworld.genruntimeconfig.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\01helloworld\obj\Debug\net6.0\ref\01helloworld.dll
