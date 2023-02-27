@@ -1,0 +1,15 @@
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\obj\Debug\net6.0\06control_flow_statemnet.csproj.AssemblyReference.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\obj\Debug\net6.0\06control_flow_statemnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\obj\Debug\net6.0\06control_flow_statemnet.AssemblyInfoInputs.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\obj\Debug\net6.0\06control_flow_statemnet.AssemblyInfo.cs
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\obj\Debug\net6.0\06control_flow_statemnet.csproj.CoreCompileInputs.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\bin\Debug\net6.0\06control_flow_statemnet.exe
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\bin\Debug\net6.0\06control_flow_statemnet.deps.json
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\bin\Debug\net6.0\06control_flow_statemnet.runtimeconfig.json
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\bin\Debug\net6.0\06control_flow_statemnet.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\bin\Debug\net6.0\06control_flow_statemnet.pdb
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\obj\Debug\net6.0\06control_flow_statemnet.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\obj\Debug\net6.0\refint\06control_flow_statemnet.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\obj\Debug\net6.0\06control_flow_statemnet.pdb
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\obj\Debug\net6.0\06control_flow_statemnet.genruntimeconfig.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\06control_flow_statemnet\obj\Debug\net6.0\ref\06control_flow_statemnet.dll
