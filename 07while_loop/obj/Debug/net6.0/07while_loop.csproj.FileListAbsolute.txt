@@ -1,0 +1,15 @@
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\bin\Debug\net6.0\07while_loop.exe
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\bin\Debug\net6.0\07while_loop.deps.json
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\bin\Debug\net6.0\07while_loop.runtimeconfig.json
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\bin\Debug\net6.0\07while_loop.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\bin\Debug\net6.0\07while_loop.pdb
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\obj\Debug\net6.0\07while_loop.csproj.AssemblyReference.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\obj\Debug\net6.0\07while_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\obj\Debug\net6.0\07while_loop.AssemblyInfoInputs.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\obj\Debug\net6.0\07while_loop.AssemblyInfo.cs
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\obj\Debug\net6.0\07while_loop.csproj.CoreCompileInputs.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\obj\Debug\net6.0\07while_loop.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\obj\Debug\net6.0\refint\07while_loop.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\obj\Debug\net6.0\07while_loop.pdb
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\obj\Debug\net6.0\07while_loop.genruntimeconfig.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\07while_loop\obj\Debug\net6.0\ref\07while_loop.dll
